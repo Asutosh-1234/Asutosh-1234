@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Asutosh 👋
 
-<!--
-**Asutosh-1234/Asutosh-1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer focused on Node.js and TypeScript.
 
-Here are some ideas to get you started:
+## 💻 Skills
+- Backend: Node.js, TypeScript, Express
+- Databases: MongoDB, PostgreSQL, MySQL
+- Concepts: REST APIs, DB Design, System Design
+- Other: Data Structures & Algorithms (DSA)
+- Additional: Python (working knowledge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Focus
+- Building scalable backend systems  
+- Improving system design fundamentals  
+- Strengthening problem-solving skills
