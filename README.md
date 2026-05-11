@@ -31,7 +31,7 @@
 
 ### 🎨 Frontend & Markup
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react" />
 </p>
 
 ### 🛠️ Tools & Others
