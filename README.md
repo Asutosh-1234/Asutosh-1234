@@ -26,7 +26,7 @@
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
 </p>
 
 ### 🎨 Frontend & Markup
