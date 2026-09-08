@@ -25,7 +25,7 @@
 ### Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,express,nestjs,python,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,express,python,fastapi" />
 </p>
 
 ### Databases & Infrastructure
@@ -80,9 +80,7 @@ Some areas I've been working on:
 ---
 
 ## GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asutosh-1234&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asutosh-1234&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
